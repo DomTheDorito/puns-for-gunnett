@@ -5,3 +5,10 @@ const war;
 -----
 $arr = array('hip', 'hip')  // 'hip', 'hip' array
 -----
+Why do mathematicians always confuse Halloween and Christmas? 
+Because 31 Oct = 25 Dec.
+-----
+There are 10 types of people in the world - those who understand tertiary, those who don't, and those who thought this was a binary joke.
+----
+And on the seventh day, He exited from append mode.
+-----
